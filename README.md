@@ -9,3 +9,4 @@ Exercices for Computer Science course in Unimes in C/C++
 ## Professors/Supervisors
 
 * **Ahmad ZAKARIA** - (ahmadazakaria@outlook.com)
+* **Mehdi Yedroudj** - (mehdi.yedroudj@lirmm.fr)
