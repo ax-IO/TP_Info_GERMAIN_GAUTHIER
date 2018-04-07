@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ggerm/CLionProjects/TP8/chaine.cpp
+chaine.h
+C:/Users/ggerm/CLionProjects/TP8/chaine.h
+
+C:/Users/ggerm/CLionProjects/TP8/chaine.h
+iostream
+-
+string
+-
+
+C:/Users/ggerm/CLionProjects/TP8/choix_ex.cpp
+choix_ex.h
+C:/Users/ggerm/CLionProjects/TP8/choix_ex.h
+chaine.h
+C:/Users/ggerm/CLionProjects/TP8/chaine.h
+
+C:/Users/ggerm/CLionProjects/TP8/choix_ex.h
+iostream
+-
+string
+-
+
+C:/Users/ggerm/CLionProjects/TP8/main.cpp
+iostream
+-
+string
+-
+choix_ex.h
+C:/Users/ggerm/CLionProjects/TP8/choix_ex.h
+chaine.h
+C:/Users/ggerm/CLionProjects/TP8/chaine.h
+
