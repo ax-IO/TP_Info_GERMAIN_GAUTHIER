@@ -1,0 +1,3 @@
+C:/Users/ggerm/CLionProjects/TD10/cmake-build-debug/CMakeFiles/TD10.dir
+C:/Users/ggerm/CLionProjects/TD10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ggerm/CLionProjects/TD10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
