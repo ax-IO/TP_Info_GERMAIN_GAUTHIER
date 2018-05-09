@@ -40,7 +40,7 @@ void choix_ex::choix_exo(const int num) {
 }
 
 void choix_ex::ex1() {
-    std::cout << "Saisis un mot : ";
+    std::cout << "Saisis un mot :" << std::endl;
     std::string mot;
     std::cin >> mot;
 
